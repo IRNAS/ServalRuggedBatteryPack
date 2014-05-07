@@ -8,16 +8,16 @@ Designed to house 2pcs LiFePO4 12Ah batteries and control electronics. Implement
 
 Assembly parts:
 
-![SolRouterSer](https://raw.github.com/IRNAS/SolRouterSer/master/photos/SRBP-Proto-2.jpg)
+![ServalRuggedBatteryPack](https://raw.github.com/IRNAS/ServalRuggedBatteryPack/master/photos/SRBP-Proto-2.jpg)
 
 Inside the 3D printed case:
 
-![SolRouterSer](https://raw.github.com/IRNAS/SolRouterSer/master/photos/SRBP-Proto-3.jpg)
+![ServalRuggedBatteryPack](https://raw.github.com/IRNAS/ServalRuggedBatteryPack/master/photos/SRBP-Proto-3.jpg)
 
 In action with Serval Mesh Extender:
 
-![SolRouterSer](https://raw.github.com/IRNAS/SolRouterSer/master/photos/SRBP-Proto-1.jpg)
-![SolRouterSer](https://raw.github.com/IRNAS/SolRouterSer/master/photos/SRBP-Proto-4.jpg)
+![ServalRuggedBatteryPack](https://raw.github.com/IRNAS/ServalRuggedBatteryPack/master/photos/SRBP-Proto-1.jpg)
+![ServalRuggedBatteryPack](https://raw.github.com/IRNAS/ServalRuggedBatteryPack/master/photos/SRBP-Proto-4.jpg)
 
 ## Development goals
  * Supply power for the wireless device (5V USB or 12V)
