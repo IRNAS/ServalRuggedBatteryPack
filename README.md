@@ -4,7 +4,7 @@ ServalRuggedBatteryPack
 Serval Rugged Battery Pack is designed to be the universal battery supply system for wireless equipment in any situation. Let that be a rescue operation in New Zealand, every-day deployment in Africa or a remote location in Europe, all sharing the same lack of electrical power for communication equipment. Together with [Serval project](http://www.servalproject.org/)  we are creating an universal power solution for [Serval Mesh extender](http://developer.servalproject.org/dokuwiki/doku.php?id=content:meshextender:main_page)  and general use in community wireless networks.
 
 ## Early prototpe
-Designed to house 2pcs LiFePO4 12Ah batteries and control electronics. Implements most of the described features, however supports only up to 1A charging current, making the usage of such a system rather limited. Improvements are on the way.
+Designed to house 2pcs LiFePO4 12Ah batteries and control electronics, developed in collaboration with [eCat](http://www.ecat.si/). It implements most of the described features, however supports only up to 1A charging current, making the usage of such a system with high capacity rather limited. Improvements are on the way.
 
 Assembly parts:
 
@@ -83,7 +83,7 @@ The following features should be implemented in software:
 ## Electronics
 The brains should be MSP430G2452 compatible with [Energia environment](http://energia.nu), because of internal VCC measurement feature, temperature sensor, low power consumption nad affordable cost.
 
-The charging part should ideally be built around BQ24560 IC from TI.
+The charging part should ideally be built around BQ24650 IC from TI.
 
 The output step-up part should be built with low-cost step-up devices. Pre-selectable config for 12V or 5V output.
 
