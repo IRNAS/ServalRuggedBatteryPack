@@ -1,0 +1,32 @@
+CAM output for current project Musty_switcher 2.0.T3001
+Output on 03. jun 2014, 22:09h
+Current project created using TARGET 16.7.0.65 economy
+Output created using TARGET 3001! V16.7.0.65
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 60,325 mm x 80,01 mm
+
+Description of created files as follows:
+
+Musty_switcher 2.0.Top = 16 = Copper top L2   ( *.Top )
+Musty_switcher 2.0.Bot = 2 = Copper bottom L1   ( *.Bot )
+Musty_switcher 2.0.Tool = drill tool list
+Musty_switcher 2.0.Drill = Galvanised drills
+Musty_switcher 2.0.Outline = 23 = PCB outline   ( *.Outline )
+Musty_switcher 2.0.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+Musty_switcher 2.0.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+Musty_switcher 2.0.PosiTop = 21 = Placement print top   ( *.PosiTop )
+Musty_switcher 2.0.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+Musty_switcher 2.0.PasteTop = 19 = Solder paste top   ( *.PasteTop )
+Musty_switcher 2.0.Special4 = 25 = Milling   ( *.Special# )
+Musty_switcher 2.0.Apr = TARGET 3001! aperture list
+Musty_switcher 2.0.Whl = Eagle compatible aperture list
+
+
+Caution: Smallest track is thiner than 0,150mm: (0,100 at 9,165 | 55,525) on layer 21
